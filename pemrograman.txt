@@ -6,3 +6,5 @@ Meningkatkan skill pemrograman:
 - Pelajari Artificial Intelligence dan Machine Learning: Mulai dengan algoritma dasar seperti regresi linear.
 - Praktekkan pengembangan web modern: Kuasai framework seperti React atau Vue.js.
 - Belajar Git dan GitHub: Pelajari cara berkolaborasi dalam proyek menggunakan kontrol versi.
+- Coba DevOps dasar: Pelajari Docker, CI/CD, dan manajemen infrastruktur.
+- Eksplorasi keamanan siber: Mulai dengan topik dasar seperti cryptography dan ethical hacking.
