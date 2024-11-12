@@ -1,0 +1,6 @@
+Meningkatkan skill pemrograman:
+- Pelajari Python: Mulai dengan dasar-dasar dan lanjutkan ke proyek sederhana.
+- Kuasai JavaScript: Fokus pada pengembangan front-end dan back-end dengan Node.js.
+- Eksplorasi Data Science: Pelajari alat seperti Pandas, NumPy, dan Matplotlib untuk analisis data.
+- Ikuti kursus Cloud Computing: Pelajari dasar-dasar AWS, Google Cloud, atau Azure.
+- Pelajari Artificial Intelligence dan Machine Learning: Mulai dengan algoritma dasar seperti regresi linear.
