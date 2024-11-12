@@ -9,3 +9,5 @@ Meningkatkan skill pemrograman:
 - Coba DevOps dasar: Pelajari Docker, CI/CD, dan manajemen infrastruktur.
 - Eksplorasi keamanan siber: Mulai dengan topik dasar seperti cryptography dan ethical hacking.
 - Bangun portofolio proyek: Buat dan publikasikan proyek teknis di GitHub untuk menunjukkan keterampilan.
+- Pelajari Basis Data (SQL dan NoSQL): Kuasai SQL untuk database relasional dan MongoDB untuk database NoSQL.
+- Ikuti sertifikasi profesional: Ambil sertifikasi yang relevan, seperti AWS Certified Solutions Architect, Microsoft Azure Fundamentals, atau Google Data Engineer, untuk meningkatkan kredibilitas.
