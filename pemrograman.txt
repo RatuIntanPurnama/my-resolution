@@ -5,3 +5,4 @@ Meningkatkan skill pemrograman:
 - Ikuti kursus Cloud Computing: Pelajari dasar-dasar AWS, Google Cloud, atau Azure.
 - Pelajari Artificial Intelligence dan Machine Learning: Mulai dengan algoritma dasar seperti regresi linear.
 - Praktekkan pengembangan web modern: Kuasai framework seperti React atau Vue.js.
+- Belajar Git dan GitHub: Pelajari cara berkolaborasi dalam proyek menggunakan kontrol versi.
