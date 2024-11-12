@@ -8,3 +8,4 @@ Meningkatkan skill pemrograman:
 - Belajar Git dan GitHub: Pelajari cara berkolaborasi dalam proyek menggunakan kontrol versi.
 - Coba DevOps dasar: Pelajari Docker, CI/CD, dan manajemen infrastruktur.
 - Eksplorasi keamanan siber: Mulai dengan topik dasar seperti cryptography dan ethical hacking.
+- Bangun portofolio proyek: Buat dan publikasikan proyek teknis di GitHub untuk menunjukkan keterampilan.
